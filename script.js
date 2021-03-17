@@ -17,7 +17,7 @@ function hide () {
 }
 
 function show () {
-  document.getElementById('paragraph').style.display ='block'
+  document.getElementById('paragraph').style.display = 'block'
 }
 
 function background () {
